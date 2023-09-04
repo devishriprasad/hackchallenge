@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>TOP 100 K DRAMA</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="https://wallpapercave.com/wp/wp3078638.jpg" rel="icon">
+  <link href="https://wallpapercave.com/wp/wp3078638.jpg" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+ 
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top ">
+    <div class="container d-flex align-items-center justify-content-lg-between">
+
+      <h1 class="logo me-auto me-lg-0"><a href="index.html">IBM <span>.</span></a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo me-auto me-lg-0"><https://wallpapercave.com/wp/wp3078638.jpg" alt="" class="img-fluid"></a>-->
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+
+          <li><a class="nav-link scrollto active" href="#hero">HOME</a></li>
+          <li><a class="nav-link scrollto" href="#about">STORY</a></li>
+          <li><a class="nav-link scrollto" href="#services">REPORT</a></li>
+          <li><a class="nav-link scrollto" href="#team">TEAM</a></li>
+          <li><a class="nav-link scrollto" href="#contact">DASHBOARD</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+      <a href="#about" class="get-started-btn scrollto">Get Started</a>
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center justify-content-center">
+    <div class="container" data-aos="fade-up">
+
+      <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+        <div class="col-xl-6 col-lg-8">
+          <h1>TOP 100 KOREAN DRAMA<span>.</span></h1>
+          <h2>THE FEEL OF THE 21ST CENTURY GENERATION</h2>
+        </div>
+      </div>
+
+      
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <iframe src="https://us3.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.my_folders%2Fk%2Bstory&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=-1&amp;sceneTime=0" width="760" height="900" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+            <img src="https://koreandramaland.com/wp-content/uploads/2017/11/while-you-were-sleeping-2017-filming-location-episode-25-samcheok-beach-koreandramaland-1441x800.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-left" data-aos-delay="100">
+            <h3>THE CRAZE OF KOREAN DRAMA</h3>
+            <p class="fst-italic">
+              Korean dramas (Korean: 한국 드라마; RR: Han-guk deurama), more popularly known as K-dramas, are television series in the Korean language that are made in South Korea.
+
+They are popular worldwide, especially in Asia, partially due to the spread of Korean popular culture (the "Korean Wave") and their widespread availability via streaming services, which often offer subtitles in multiple languages. Many K-dramas have been translated internationally, and some of them have had a significant influence in other nations. In other countries, traditional television channels have broadcast some of the most well-known dramas. For example, Dae Jang Geum (2003–04) was sold in 150 countries
+
+The "Korean Wave", or Hallyu, has made great impacts on countries around the world. With the wave came Korean TV Dramas. "In the late 2000s, South Korea was producing more TV dramas than ever before." (Tilland, 2021) The most successful dramas incorporate skillful combinations of familial affection, sex appeal, and emotional desirability. The demand for K-Drama has only increased over the last twenty years after it was nearly destroyed due to Hollywood films, Japanese pop culture, and the financial crisis that hit South Korea since 1997. (Ingyu, 2017) K-dramas continue to gain traction internationally today.
+
+There is a tacit knowledge when it comes to the production of television series in South Korea that appeals to consumers in a unique way. "The working definition of tacit knowledge is the kind of knowledge that is difficult to transfer to another person by means of writing it down or verbalizing it." (Ingyu, 2017) K-Dramas have an especially large female presence that make up its following and representation. The female fandom is specifically targeted and tacit knowledge is applied most effectively in this area. The Korean actors show a wide range of emotions and many adlib without prompting, even producing genuine tears without assistance.
+            </p>
+            
+            
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container" data-aos="zoom-in">
+
+        <d
+      </div>
+    </section><!-- End Clients Section -->
+
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="image col-lg-6" style='background-image: url("https://sm.ign.com/t/ign_pl/screenshot/default/netflix-squid-game-poster_wuee.1200.jpg");' data-aos="fade-right"></div>
+          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
+            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+              
+              <h4>Plots and storylines</h4>
+              <p>K-dramas have a multitude of different genre such as action dramas, historical dramas, school dramas, medical dramas, legal dramas, or even horror comedies. While most dramas contain romantic elements and deep emotional themes, some may also contain a tragedy or slice of life theme. There are various styles and tones.</p>
+            </div>
+            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+              
+              <h4>Historical</h4>
+              <p>The term sageuk refers to any Korean television or film drama that is either based on historical figures, incorporates historical events, or uses a historical backdrop. While sageuk literally translates to "historical drama", the term is typically reserved for dramas taking place throughout the course of Korean history.</p>
+            </div>
+            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+             
+              <h4>Romance</h4>
+              <p>Often centered around a love story, series set in contemporary times often focus on family ties and romantic relationships. Characters are mostly idealized with Korean male protagonists described as handsome, intelligent, rich, and in search of "one true love". This has also been a contributing factor to the popularity of Korean dramas among women.</p>
+            </div>
+            
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Features Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>REPORT</h2>
+          <p>This is a small report for your better understanding...</p>
+          <iframe src="https://us3.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FK%2Breport&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=run&amp;format=HTML&amp;prompt=true" width="1220" height="900" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+        </div>
+
+        
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row no-gutters">
+          
+          <div class="https://i.pinimg.com/originals/ae/75/2b/ae752b34d6fdf2f775e592ed9eb599cd.jpg" data-aos="fade-right" data-aos-delay="100"></div>
+          <img src="<https://i.pinimg.com/originals/ae/75/2b/ae752b34d6fdf2f775e592ed9eb599cd.jpg" class="img-fluid" alt="">
+          <div class="col-xl-7 ps-4 ps-lg-5 pe-4 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay="100">
+            <div class="content d-flex flex-column justify-content-center">
+              <h3>Genres:</h3>
+              <p>
+                 Korean dramas cover a wide range of genres, including romance, melodrama, historical, fantasy, crime, thriller, comedy, and more. They are known for their ability to blend multiple genres within a single series.
+              </p>
+              <div class="row">
+                <div class="col-md-6 d-md-flex align-items-md-stretch">
+                  <div class="count-box">
+                    <i class="bi bi-emoji-smile"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="65" data-purecounter-duration="2" class="purecounter"></span>
+                    <p><strong>Episode Format:</strong> Most Korean dramas are structured in a limited episode format, typically ranging from 16 to 20 episodes, with each episode lasting about an hour. However, there are also shorter series and longer-running dramas.</p>
+                  </div>
+                </div>
+
+                <div class="col-md-6 d-md-flex align-items-md-stretch">
+                  <div class="count-box">
+                    <i class="bi bi-journal-richtext"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="2" class="purecounter"></span>
+                    <p><strong>Storytelling:</strong> K-dramas are known for their compelling storytelling, often focusing on character development and emotional depth. They tend to explore various aspects of human relationships, family dynamics, and societal issues.</p>
+                  </div>
+                </div>
+
+                <div class="col-md-6 d-md-flex align-items-md-stretch">
+                  <div class="count-box">
+                    <i class="bi bi-clock"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="4" class="purecounter"></span>
+                    <p><strong>Popular Actors and Actresses</strong> Korean dramas often feature popular and talented actors and actresses who have gained international recognition. These actors and actresses can have dedicated fanbases and go on to become Hallyu stars.
+
+</p>
+                  </div>
+                </div>
+
+                <div class="col-md-6 d-md-flex align-items-md-stretch">
+                  <div class="count-box">
+                    <i class="bi bi-award"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="4" class="purecounter"></span>
+                    <p><strong>Soundtracks:</strong>  Korean dramas are known for their memorable soundtracks, which often include original songs that complement the mood and themes of the series.</p>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End .content-->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Counts Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Team</h2>
+          <p>Check our Team</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="D:\notes\proffession\WhatsApp Image 2023-09-04 at 00.11.04.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Devishri Prasad P</h4>
+                <span>Team leader</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="D:\notes\proffession\WhatsApp Image 2023-09-04 at 00.07.37.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Challa Pavan Sai</h4>
+                <span>Co-Leader</span>
+              </div>
+            </div>
+          </div>
+
+          
+              
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>DASHBOARD</h2>
+          <p>K DRAMA DASHBOARD FOR BETTER UNDERSTANDING</p>
+        </div>
+
+        
+<iframe src="https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FK%2Bdashboard&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a4a21a072_00000002" width="1220" height="900" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
